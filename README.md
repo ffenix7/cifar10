@@ -9,7 +9,6 @@ A custom solution implemented from scratch in PyTorch to classify images from th
 - Includes training & validation accuracy tracking  
 - Simple and readable code structure
 - Support Vector Machine (SVM) implementation for comparison (only around 58% accuracy)
-- SVM trained on flattened CIFAR-10 images  
 
 ## 🚀 Getting Started
 
@@ -21,7 +20,6 @@ A custom solution implemented from scratch in PyTorch to classify images from th
 - sklearn
 - numpy
 - matplotlib (for plots) 
-- seaborn (for plots)
 
 
 ### Installation
